@@ -1,0 +1,4 @@
+#Sat Nov 13 19:29:57 WAT 2021
+base.0=/home/nery/B-DEV-501-COT-5-1-redditech-hillary.toto/my_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
